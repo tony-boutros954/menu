@@ -1,0 +1,49 @@
+body{
+    background-image: url(https://wallpaperaccess.com/full/4093095.jpg);
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size:cover;
+    background-color:azure;
+    color: azure;
+}
+
+body h1{
+    text-align: center;
+    font-family:cursive;
+    font-size: 65px;
+    font-style: italic;
+    font-weight: 600;
+    
+}
+
+body ul{
+    height: 100%;
+    text-align: center;
+    font-size: 40px;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-top: 1cm;
+}
+
+.fl{
+    float: left;
+    margin-left: 10%;
+}
+
+.fr{
+    float: right;
+    margin-right: 10%;
+    list-style: none;
+}
+
+/* .img{
+    
+    display: inline-block;
+}
+
+.imgs{
+    margin-top: 30px;
+    display: inline-block;
+    height: 320px;
+    width: 33%;
+}    */
